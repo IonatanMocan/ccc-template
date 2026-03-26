@@ -1,3 +1,5 @@
+This repo contains the output from this create command: https://github.com/get-convex/templates/tree/main/template-nextjs-convexauth
+
 # Welcome to your Convex + Next.js + Convex Auth app
 
 This is a [Convex](https://convex.dev/) project created with [`npm create convex`](https://www.npmjs.com/package/create-convex).
